@@ -1,0 +1,276 @@
+@charset "UTF-8";
+
+/* EXCLUSIVO ------- > *** INDEX***  */
+
+.fondo {
+	background-color:#09F;
+	background:url(../IMG-Na%27at/Prismas-basalticos.jpeg);
+	filter:alpha (opacity=50);
+	background-attachment:fixed;
+	background-size:cover;
+	}
+	
+#logotipoINDEX {
+	width:40%;
+	height:5% auto;
+	}
+
+.caja-navegador {
+	margin:8% auto;
+	width:90%;
+	}
+
+.navegadorINDEX {
+	width:100%;
+	margin-top:5%;
+	background-color:rgba(0,0,255,0.35);
+	}
+
+.menuINDEX {
+	height:100%;
+	margin:30px 0px;
+	padding:10px 10px;
+	}
+	
+#logotipo {
+	width:260px;
+	text-align:center;
+	padding:0px;
+	}
+
+.navegador {
+	width:90%;
+	background-color:rgba(0,0,255,0.30);
+	margin-top:20px;
+	border-radius:30px 30px 0px 0px;
+	margin-left:5%;
+	margin-right:5%;
+	}
+
+.menu {
+	margin-top:8%;
+	padding:2px, 2px;
+	}
+	
+.boton {
+	border-radius:4px,0px;
+	color:white;	
+	}
+	
+.btn{
+	background-color:#00B2FF;
+	hover:#63F;
+	}
+
+.cuerpo {
+	width:80%;
+	height:100%;
+	margin-left:10%;
+	margin-right:10%;
+	margin top:25px;
+	background-color:rgba(255,255,255,0.20)
+	}
+
+#img-nieve {
+	width:90%;
+	}
+	
+#img-otoño {
+	width:90%;
+	}
+
+footer{
+	margin-bottom:0 auto;
+	}
+
+.hole {
+	height:150px;
+	}
+
+.pie-pagina {
+	background-color:rgba(153,153,153,0.35);
+	width:95%;
+	margin:0% 2.5%;
+}
+
+/* VINCULOS */
+
+.active {
+	background-color:#60F;
+	}
+
+.vinculo {
+	color:white;
+	}
+
+/* v ************ ¿Quienes somos? -> (Elementos Extras) <- ********** v */
+
+.fondo-2 {
+	background:url(../IMG-Na%27at/glavnaia.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+}
+
+.name-s {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	}
+
+.pos-s {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size::18px;
+	}
+
+.box-name {
+	margin-top:8px;
+	border-radius:12px 12px 12px 12px;;
+	}
+
+.box-name-1 {
+	background-color:rgba(0,255,255,0.60);
+	}
+
+.box-name-2 {
+	background-color:rgba(255,102,0,0.60);
+	}
+
+.box-name-3 {
+	background-color:rgba(0,204,0,0.60);
+	}
+
+.cuerpo-QS{
+	width:90%;
+	margin-left:5%;
+	margin-right:5%;
+	margin-top:50px;
+	} 
+
+.cuerpo-silvia {
+	width:100%;
+	background-color:rgba(0,255,255,0.60);
+	padding-top:5%;
+	padding-bottom:5%;
+	}
+
+#silvia {
+	width:90%;
+	border-radius:50%;
+	margin:0 5% 0 5%;
+	}
+	
+.cuerpo-elisa {
+	width:100%;
+	background-color:rgba(255,102,0,0.60);
+	padding-top:5%;
+	padding-bottom:5%;
+	}
+
+#elisa {
+	width:90%;
+	border-radius:50%;
+	margin:0 5% 0 5%;
+	}
+
+.cuerpo-toño {
+	width:100%;
+	background-color:rgba(0,204,0,0.60);
+	padding-top:5%;
+	padding-bottom:5%;
+	}
+
+#toño {
+	width:90%;
+	border-radius:50%;
+	margin:0 5% 0 5%;
+	}
+
+/* v ************ Contacto -> (Elementos Extras) <- ********** v */
+
+.fondo-3{
+	background:url(../IMG-Na%27at/Beautiful-autumn-sunset-forest-trees-red-leaves_2560x1600.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat:no-repeat;
+	}
+	
+.navegador-C {
+	width:90%;
+	background-color:rgba(153,0,51,0.70);
+	margin-top:20px;
+	margin-left:5%;
+	margin-right:5%;
+	border-radius:30px 30px 0px 0px;
+	}
+
+.cuerpo-contacto {
+	width:90%;
+	margin-left:5%;
+	margin-right:5%;
+	}
+
+#title-cal {
+	color:#FFF;
+	background-color:rgba(153,0,0,0.70);
+	width:100%;
+	}
+
+#Calendar {
+	margin-left:50px;
+	}
+
+#map {
+	margin-top:15px;
+	margin-bottom:20px;
+	border-radius:15px 15px 15px 15px;
+	}
+
+.cuerpo-rojo {
+	border-radius:30px 30px 30px 30px;
+	background-color:rgba(153,0,0,0.70);
+	}
+	
+.contactoRIGHT {
+	margin-top:10px;
+	}
+
+.cal-title {
+	text-align:center;
+	}
+
+
+/* v ************ Talleres y cursos -> (Elementos Extras) <- ********** v */
+
+.fondo-4{
+	background:url(../IMG-Na%27at/mountain_peak_top_lake_blue_sky_ripples_63277_3840x2400.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+}
+
+.navegador-2 {
+	width:90%;
+	background-color:rgba(102,51,255,0.55);
+	margin-top:20px;
+	margin-left:5%;
+	margin-right:5%;
+	border-radius:30px 30px 0px 0px;
+	}
+
+/* v *****IMAGENES DE LAS TERAPIAS/TALLERES***** ^ */	
+	
+/* v ************ Dudas 	-> (Elementos Extras) <- ********** v */
+
+
+.navegador-dudas {
+	width:90%;
+	background-color:rgba(51,255,255,0.30);
+	margin-top:20px;
+	margin-left:5%;
+	margin-right:5%;
+	border-radius:30px 30px 0px 0px;
+	}
+	
+.fondo-5 {
+	background:url(../IMG-Na%27at/AX932591.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+	}
