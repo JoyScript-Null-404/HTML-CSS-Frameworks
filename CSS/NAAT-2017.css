@@ -1,5 +1,16 @@
 @charset "UTF-8";
 
+/* General Measures */
+
+.flex-container {
+	display: flex;
+	justify-content: space-around;
+
+}
+
+
+
+
 /* EXCLUSIVO ------- > *** INDEX***  */
 
 .fondo {
@@ -17,6 +28,10 @@
 	width:40%;
 	height:5% auto;
 	}
+
+#logotipoINDEX:hover {
+	filter:drop-shadow(30px, 30px, 10px, blue);
+}
 
 .caja-navegador {
 	margin:7% auto;
@@ -145,14 +160,15 @@ footer{
 	}
 
 .cuerpo-QS{
-	width: 100%;
-	scroll-margin-inline: auto;
+	width: 80%;
+	margin-inline: auto;
 	margin-top:50px;
-	} 
+	display: flexbox;
+	justify-self: center;	} 
 
 .cuerpo-silvia {
 	width:100%;
-	background-color:rgba(0,255,255,0.60);
+	background-color:rgba(0,255,255,0.85);
 	padding-top:5%;
 	padding-bottom:5%;
 	}
@@ -165,7 +181,7 @@ footer{
 	
 .cuerpo-elisa {
 	width:100%;
-	background-color:rgba(255,102,0,0.60);
+	background-color:rgba(255,102,0,0.85);
 	padding-top:5%;
 	padding-bottom:5%;
 	}
@@ -178,7 +194,7 @@ footer{
 
 .cuerpo-toño {
 	width:100%;
-	background-color:rgba(0,204,0,0.60);
+	background-color:rgba(0,204,0,0.85);
 	padding-top:5%;
 	padding-bottom:5%;
 	}
